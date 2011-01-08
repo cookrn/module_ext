@@ -1,0 +1,3 @@
+module ModuleExt
+  VERSION = "0.0.1"
+end
