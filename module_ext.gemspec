@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ryan Cook"]
   s.email       = ["ryan@quickleft.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/cookrn/module_ext"
   s.summary     = %q{Convenience module extensions.}
   s.description = %q{Convenience module extensions.}
 
