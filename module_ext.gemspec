@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Ryan Cook"]
   s.email       = ["ryan@quickleft.com"]
   s.homepage    = ""
-  s.summary     = %q{Convenience module extensions without the burden of ActiveSupport}
-  s.description = %q{Convenience module extensions without the burden of ActiveSupport}
+  s.summary     = %q{Convenience module extensions.}
+  s.description = %q{Convenience module extensions.}
 
   s.rubyforge_project = "module_ext"
 
