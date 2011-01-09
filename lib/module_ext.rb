@@ -1,6 +1,6 @@
 module ModuleExt
 
-  require 'module_ext/extensions'
+  require 'module_ext/attribute_accessors'
 
 end
 
